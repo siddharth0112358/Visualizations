@@ -1,0 +1,36 @@
+## Thank you for submitting a bug report!
+<!--
+Ensure you try the latest version of Scattertext before submitting an issue.
+Provide a description of the issue you are experiencing and what you'd expect to see.
+
+Note that bug reports which to not follow this template are liable to be closed.
+-->
+
+## Steps to Reproduce
+
+This is a runnable program which uses a publicliy available data set. Anyone can copy this piece of code, run it, and reproduce the issue:
+
+```
+# Here is the code snippet
+```
+
+## Expected behavior
+
+This is is a clear description of what I expected to happen.
+
+## Environment
+
+ - Scattertext version (e.g., 0.0.2.75):
+ - Have I tried running this on the latest version of Scattertext?
+ - OS (e.g., Linux):
+ - How you installed Scattertext (`conda`, `pip`, source):
+ - Build command you used (if compiling from source):
+ - Python version:
+ - Version of dependencies:
+ - Any other relevant information:
+
+## Additional context
+
+<!-- Add any other context about the problem here. -->
+
+<!-- Note: this was adapated from the PyTorch issue template -->
